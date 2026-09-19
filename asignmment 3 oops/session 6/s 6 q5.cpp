@@ -1,0 +1,6 @@
+\\| Encapsulation                                           | Abstraction                                                                                             |
+\\| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+\\| Data ko **protect/hide** karta hai.                     | Unnecessary **implementation details hide** karta hai.                                                  |
+\\| `private`, `public`, `protected` ka use hota hai.       | Abstract class aur pure virtual function ka use ho sakta hai.                                           |
+\\| Example: Instagram mein phone number ko private rakhna. | Example: Instagram mein Post button use karte hain, lekin photo upload ka internal process nahi dekhte. |
+\\| Main focus **data security** par hota hai.              | Main focus **simplicity** par hota hai.                                                                 |
